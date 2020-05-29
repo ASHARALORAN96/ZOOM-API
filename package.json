@@ -1,0 +1,26 @@
+{
+  "name": "zoom-api",
+  "version": "1.0.0",
+  "description": "test-zoom api ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASHARALORAN96/ZOOM-API.git"
+  },
+  "author": "Ashar & Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASHARALORAN96/ZOOM-API/issues"
+  },
+  "homepage": "https://github.com/ASHARALORAN96/ZOOM-API#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2"
+  }
+}
